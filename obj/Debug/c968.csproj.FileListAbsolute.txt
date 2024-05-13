@@ -1,0 +1,15 @@
+D:\C968-master\C968-master\c968\bin\Debug\c968.exe.config
+D:\C968-master\C968-master\c968\bin\Debug\c968.exe
+D:\C968-master\C968-master\c968\bin\Debug\c968.pdb
+D:\C968-master\C968-master\c968\obj\Debug\c968.csproj.AssemblyReference.cache
+D:\C968-master\C968-master\c968\obj\Debug\c968.csproj.SuggestedBindingRedirects.cache
+D:\C968-master\C968-master\c968\obj\Debug\c968.AddPartScreen.resources
+D:\C968-master\C968-master\c968\obj\Debug\c968.AddProductScreen.resources
+D:\C968-master\C968-master\c968\obj\Debug\c968.MainScreen.resources
+D:\C968-master\C968-master\c968\obj\Debug\c968.ModifyPartScreen.resources
+D:\C968-master\C968-master\c968\obj\Debug\c968.ModifyProductScreen.resources
+D:\C968-master\C968-master\c968\obj\Debug\c968.Properties.Resources.resources
+D:\C968-master\C968-master\c968\obj\Debug\c968.csproj.GenerateResource.cache
+D:\C968-master\C968-master\c968\obj\Debug\c968.csproj.CoreCompileInputs.cache
+D:\C968-master\C968-master\c968\obj\Debug\c968.exe
+D:\C968-master\C968-master\c968\obj\Debug\c968.pdb
